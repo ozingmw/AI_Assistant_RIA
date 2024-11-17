@@ -1,1 +1,23 @@
-This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
+# 나만의 인공지능 비서 만들기
+
+## 프로젝트 설명
+이 프로젝트는 음성 인식, 자연어 처리, 텍스트 변환 기능을 갖춘 인공지능 비서를 만드는 것을 목표로 합니다. 사용자는 음성 명령을 통해 다양한 작업을 수행할 수 있습니다.
+
+## 설정 및 실행 방법
+1. 이 저장소를 클론합니다:
+   ```bash
+   git clone https://github.com/githubnext/workspace-blank.git
+   ```
+2. 필요한 라이브러리를 설치합니다:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. 프로젝트를 실행합니다:
+   ```bash
+   python main.py
+   ```
+
+## 기능 및 기능 목록
+- 음성 인식: 사용자의 음성을 텍스트로 변환합니다.
+- 자연어 처리: 사용자의 명령을 이해하고 적절한 작업을 수행합니다.
+- 텍스트 변환: 텍스트를 음성으로 변환하여 사용자에게 응답합니다.
