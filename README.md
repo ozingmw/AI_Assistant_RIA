@@ -1,2 +1,1 @@
-# AI_Assistant_RIA
-A repository for my AI assistant project
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
